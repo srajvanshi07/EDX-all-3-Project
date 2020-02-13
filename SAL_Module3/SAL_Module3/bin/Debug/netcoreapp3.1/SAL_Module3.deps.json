@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SAL_Module3/1.0.0": {
+        "runtime": {
+          "SAL_Module3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SAL_Module3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

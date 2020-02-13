@@ -1,0 +1,22 @@
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\Final_assignement\edx_all3_Module\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.exe
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\Final_assignement\edx_all3_Module\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.deps.json
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\Final_assignement\edx_all3_Module\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.runtimeconfig.json
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\Final_assignement\edx_all3_Module\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.runtimeconfig.dev.json
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\Final_assignement\edx_all3_Module\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.dll
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\Final_assignement\edx_all3_Module\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.pdb
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\Final_assignement\edx_all3_Module\edx_all3_Module\obj\Debug\netcoreapp3.1\edx_all3_Module.AssemblyInfoInputs.cache
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\Final_assignement\edx_all3_Module\edx_all3_Module\obj\Debug\netcoreapp3.1\edx_all3_Module.AssemblyInfo.cs
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\Final_assignement\edx_all3_Module\edx_all3_Module\obj\Debug\netcoreapp3.1\edx_all3_Module.dll
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\Final_assignement\edx_all3_Module\edx_all3_Module\obj\Debug\netcoreapp3.1\edx_all3_Module.pdb
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\Final_assignement\edx_all3_Module\edx_all3_Module\obj\Debug\netcoreapp3.1\edx_all3_Module.csprojAssemblyReference.cache
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\EDX all 3 Project\SAL_Module2\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.exe
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\EDX all 3 Project\SAL_Module2\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.deps.json
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\EDX all 3 Project\SAL_Module2\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.runtimeconfig.json
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\EDX all 3 Project\SAL_Module2\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.runtimeconfig.dev.json
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\EDX all 3 Project\SAL_Module2\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.dll
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\EDX all 3 Project\SAL_Module2\edx_all3_Module\bin\Debug\netcoreapp3.1\edx_all3_Module.pdb
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\EDX all 3 Project\SAL_Module2\edx_all3_Module\obj\Debug\netcoreapp3.1\edx_all3_Module.csprojAssemblyReference.cache
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\EDX all 3 Project\SAL_Module2\edx_all3_Module\obj\Debug\netcoreapp3.1\edx_all3_Module.AssemblyInfoInputs.cache
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\EDX all 3 Project\SAL_Module2\edx_all3_Module\obj\Debug\netcoreapp3.1\edx_all3_Module.AssemblyInfo.cs
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\EDX all 3 Project\SAL_Module2\edx_all3_Module\obj\Debug\netcoreapp3.1\edx_all3_Module.dll
+C:\Users\srajvanshi\source\repos\Self-Assessment Lab\EDX all 3 Project\SAL_Module2\edx_all3_Module\obj\Debug\netcoreapp3.1\edx_all3_Module.pdb
